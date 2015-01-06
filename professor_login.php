@@ -49,7 +49,7 @@
         <br>
        
        <a href="#" class="login_button">LOGIN</a>
-      <a href="professor_signup.php" class="login_button">SIGN UP</a>
+      <a href="professor_signup_1.php" class="login_button">SIGN UP</a>
         <br><br>
         <h4>Access your Professor or Admin Account.</h4>
         <br><br>
